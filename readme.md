@@ -44,8 +44,8 @@ A comprehensive web-based solution for managing college clubs, events, and membe
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/yourusername/event-college-club-management.git
-cd event-college-club-management
+git clone https://github.com/anuj-rishu/Event-College-Club-Management-System
+cd Event-College-Club-Management-System
 ```
 
 ### Install dependencies:
